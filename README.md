@@ -11,4 +11,5 @@ https://drive.google.com/drive/folders/1GKGV99EOwuE-FZj0U8t0VYOVdBFgbVOA?usp=sha
 
 ## Model 11B Vision
 [Download 01-10 Files](https://drive.google.com/drive/folders/1bgBjzP39a6hxPGbjkekLE_TYk2nEylnP?usp=sharing  )   
-[Download 11-23 Files](https://drive.google.com/drive/folders/19r0Tjh_8Oy-68uWY8vysFfxNdyXNWsU4?usp=sharing)
+[Download 11-23 Files](https://drive.google.com/drive/folders/19r0Tjh_8Oy-68uWY8vysFfxNdyXNWsU4?usp=sharing)   
+[Download 24-30 Files](https://drive.google.com/drive/folders/1FeIYWZjTChcMek-HnasO-17O3Nf8GTel?usp=sharing)   
